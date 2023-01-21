@@ -49,7 +49,7 @@
 
   ## Link to tutorial video how to install and use application
 
-  https://drive.google.com/file/d/1Atf7X2BbHruL_EYWvtzk2EqByZ8V3CHU/view
+  https://drive.google.com/file/d/1RlLdP6MMt-HC3ZMa846TSPPexdo_lFF_/view
 
   ## Link to Project Repository
 
