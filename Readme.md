@@ -45,7 +45,7 @@
   
   ## Application Link
 
-  Only sample page deployed not full application, application must be installed on local hardware to use. Link for sample output page: 
+  Only sample page deployed not full application, application must be installed on local hardware to use. Link for sample output page: https://cdennis27.github.io/Team-Profile-Generator/
 
   ## Link to tutorial video how to install and use application
 
@@ -64,7 +64,7 @@
 
   ## Usage
 
-  To make a Team Profile as a HTML page where you can easily click on email link and your email provider will add to the "to:" input space.
+  To make a Company Team Profile as a HTML page where you can easily click on email link and your email provider will add to the "to:" input space.
 
   ## How to Contribute
 
