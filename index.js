@@ -241,7 +241,7 @@ async function startProgram() {
     await questionsOthers();
     //console.log(newStaffMemberData);
     createHTML();
-    console.log("Your Team has been created, please check the dist folder for file: 'index.html'.");
+    console.log("Your Team has been created, please check the 'dist' folder for file: 'index.html'.");
 };
 
 startProgram();

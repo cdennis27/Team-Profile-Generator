@@ -22,7 +22,7 @@
 
   ## Installation
 
-  1st: Copy files to your project directory. Make sure to copy the directory named "dist" on your root folder with all the files from this repository. icons files are there and that will be the destination of the HTML file created by this application, application will create the file but directory must exist. If you download entire repo and extract directory as is should work without a problem.)<br>
+  1st: Copy files to your project directory. Make sure to copy the directory named "dist" on your root folder with all the files from this repository. Icons files are there and that will be the destination of the HTML file created by this application, application will create the file but directory must exist. If you download entire repo and extract directory as is should work without a problem.)<br>
 
   2nd: Create a New Package JSON file. Type npm init on command prompt, inside the root folder.<br>
 
@@ -41,7 +41,7 @@
 
   ## Screenshots
 
-
+![ScreenShots of Application in use.](./dist/assets/icons/snapshot.jpg)
   
   ## Application Link
 
@@ -53,7 +53,7 @@
 
   ## Link to Project Repository
 
-  https://github.com/cdennis27/Readme-Generator#Link-to-Project-Repository
+  https://github.com/cdennis27/Team-Profile-Generator
 
   ## Requirements
 
